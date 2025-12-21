@@ -3,8 +3,8 @@
 [![Contributors](https://img.shields.io/badge/CONTRIBUTORS-00-blue?style=plastic)](https://github.com/ZouariOmar/Workshops/graphs/contributors) [![Forks](https://img.shields.io/badge/FORKS-00-blue?style=plastic)](https://github.com/ZouariOmar/Workshops/network/members)
 [![Stargazers](https://img.shields.io/badge/STARS-01-blue?style=plastic)](https://github.com/ZouariOmar/Workshops/stargazers)
 [![Issues](https://img.shields.io/badge/ISSUES-00-blue?style=plastic)](https://github.com/ZouariOmar/Workshops/issues)
-[![MIT License](https://img.shields.io/badge/LICENSE-MIT_Non_Commercial_License_with_Exclusive_Commercial_Rights-blue?style=plastic)](LICENSE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=blue)](https://www.linkedin.com/in/zouari-omar-143239283)
+[![MIT License](https://img.shields.io/badge/LICENSE-MIT-blue?style=plastic)](LICENSE)
+[![Linkedin](https://img.shields.io/badge/Linkedin-6.3k-blue?style=plastic)](https://www.linkedin.com/in/zouari-omar-143239283)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,18 +65,15 @@ The workshops in this repository cover a wide range of topics including, but not
   - Frontend frameworks (React, Vue.js)
   - Backend frameworks (Node.js, Express)
 - **Programming Languages**
-
   - Python, Java, C++
   - Algorithms and Data Structures
 
 - **Machine Learning & AI**
-
   - Introduction to Machine Learning
   - Natural Language Processing
   - Neural Networks
 
 - **DevOps and CI/CD**
-
   - Docker, Kubernetes
   - Jenkins, GitLab CI
   - Infrastructure as Code (IaC)
@@ -92,13 +89,13 @@ To get started with any of the workshops:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Workshops.git
+   git clone https://github.com/ZouariOmar/workshops.git
    ```
 
 2. Navigate to the specific workshop folder:
 
    ```bash
-   cd Workshops/Workshop-Name
+   cd workshops/workshops/workshop-name
    ```
 
 3. Follow the instructions in the workshop’s README (if applicable) or start working on the provided materials.
@@ -109,16 +106,14 @@ The repository is organized as follows:
 
 ```bash
 .Workshops
-├── 14-11-2024 (nest + mongodb)
+├── workshops/
+  ├── workshop-1
+  ├── workshop-2
+  └── ..
 └── doc
 
 2 directories
 ```
-
-Each workshop folder contains:
-
-- **doc/**: Presentation slides used during the workshop (+ Notes), exercises and challenges for participants
-- **solution/**: Code solution (optional, for reference)
 
 ## Contributing
 

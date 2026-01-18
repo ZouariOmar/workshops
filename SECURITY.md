@@ -1,10 +1,10 @@
 <!-- @format -->
 
-# Security Policy for Workshop
+# Security Policy for workshops
 
 ## Supported Versions
 
-The Workshop project provides security updates for the following versions:
+The workshops project provides security updates for the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,21 +13,21 @@ The Workshop project provides security updates for the following versions:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Workshop, we encourage responsible disclosure. To report a vulnerability:
+If you discover a security vulnerability in workshops, we encourage responsible disclosure. To report a vulnerability:
 
 1. **Contact us** via email at [zouariomar20@gmail.com](mailto:zouariomar20@gmail.com) with the details.
 2. Please provide a detailed description of the issue, including steps to reproduce it and, if available, a proof of concept.
 3. We aim to respond within **48 hours** and will work closely with you to resolve the issue.
 
-We appreciate the security community's efforts in helping us maintain Workshop’s safety and integrity.
+We appreciate the security community's efforts in helping us maintain workshops’s safety and integrity.
 
 ## Security Practices
 
-Workshop follows industry best practices for security to ensure safe transactions and protect user data:
+workshops follows industry best practices for security to ensure safe transactions and protect user data:
 
 ### 1. **Authentication and Authorization**
 
-- Workshop uses secure methods for user authentication, including strong password hashing (e.g., bcrypt).
+- workshops uses secure methods for user authentication, including strong password hashing (e.g., bcrypt).
 - Access control is implemented to restrict unauthorized actions.
 
 ### 2. **Data Encryption**
@@ -66,7 +66,7 @@ Workshop follows industry best practices for security to ensure safe transaction
 
 ## Security Contributions
 
-Contributors can help enhance Workshop's security by following these practices:
+Contributors can help enhance workshops's security by following these practices:
 
 - Adhere to secure coding standards and the above security practices when contributing.
 - Conduct thorough security testing before submitting a pull request.
@@ -79,4 +79,4 @@ For additional guidance on secure development, refer to:
 - [OWASP Secure Coding Practices Checklist](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Coding_Practices_Checklist.html)
 - [CWE Top 25 Most Dangerous Software Errors](https://cwe.mitre.org/top25/)
 
-Thank you for helping us make Workshop secure for our users and the community!
+Thank you for helping us make workshops secure for our users and the community!
